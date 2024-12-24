@@ -1,7 +1,8 @@
 # Dashboard_en_R
 
-Este proyecto es un **Dashboard interactivo en Shiny** desarrollado en R, que incluye un diseño atractivo con **CSS personalizado** y diversas funcionalidades estadísticas. El Dashboard es altamente interactivo, con elementos como **sliders**, **gráficos 3D** y visualización de **KPI's** para una mejor experiencia de usuario. 
+Este proyecto es un **Dashboard interactivo en Shiny** desarrollado en R, que incluye un diseño atractivo con **CSS personalizado** y diversas funcionalidades estadísticas. El Dashboard es altamente interactivo, con elementos como **sliders**, **gráficos 3D** y visualización de **KPI's** para una mejor experiencia de usuario.
 
+![Otra Vista](https://github.com/kair069/Dashboard_en_R/blob/main/2024-12-24%2013-08-49aas.gif)
 ## Características
 
 - **Interactividad con Sliders**: Los usuarios pueden ajustar parámetros de entrada para ver los resultados en tiempo real.
@@ -20,9 +21,7 @@ Este proyecto es un **Dashboard interactivo en Shiny** desarrollado en R, que in
 
 ![Video de Interacciones](https://github.com/kair069/Dashboard_en_R/blob/main/2024-12-24%2013-08-49.gif)
 
-### Otra Vista del Dashboard
 
-![Otra Vista](https://github.com/kair069/Dashboard_en_R/blob/main/2024-12-24%2013-08-49aas.gif)
 
 ## Requisitos
 
